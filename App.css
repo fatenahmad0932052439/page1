@@ -1,0 +1,47 @@
+.Sinup{
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+   background-image: url('/public/Gradient+Blur.png');
+  background-size: cover;       
+  background-position: center;  
+  background-repeat: no-repeat; 
+}
+.Sinupbox{
+  width: 350px;
+
+  background-color:aliceblue;
+  border-radius: 10px;
+  padding: 20px;
+}
+*{
+  margin: 0;
+  padding: 0;
+}
+.Sinup h1{
+  font-family: Cormorant Infant ;
+  font-weight: bold;
+  font-size: 32;
+ color:#1e5549;
+ 
+}
+
+.container {
+  display: grid;
+  grid-template-columns: 1fr 1fr; 
+  grid-template-rows: 1fr;      
+  gap: 24px;    
+  border: #67ac9d 1px solid;  
+  text-align: center;      
+  height: 30px;
+margin-top: 15px;
+       
+}
+.container1{
+ border: #67ac9d 1px solid; 
+ width: 350px; 
+ border-radius: 10px;
+
+
+}
