@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/page1/static/css/main.3f6a55c5.css",
+    "main.js": "/page1/static/js/main.417fda63.js",
+    "static/js/453.88f7c300.chunk.js": "/page1/static/js/453.88f7c300.chunk.js",
+    "static/media/Gradient+Blur.png": "/page1/static/media/Gradient+Blur.8ff700b54a7d0bbe28a0.png",
+    "static/media/logo.svg": "/page1/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/page1/index.html",
+    "main.3f6a55c5.css.map": "/page1/static/css/main.3f6a55c5.css.map",
+    "main.417fda63.js.map": "/page1/static/js/main.417fda63.js.map",
+    "453.88f7c300.chunk.js.map": "/page1/static/js/453.88f7c300.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3f6a55c5.css",
+    "static/js/main.417fda63.js"
+  ]
+}
